@@ -115,6 +115,9 @@ let filterComplete = () => {
 }
 
 
+
+
+
  let resetTodos = () => {   
     for (let i=0; i < 500; i++){   
       var myobj = document.getElementById("liid");   
