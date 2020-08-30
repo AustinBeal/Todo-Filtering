@@ -1,0 +1,35 @@
+body{
+  width: 100%;
+  margin: opx;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(to bottom right, pink, lavender) ;
+}
+.buttoncontainer{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.todolistcontainer{
+  width: 60%;
+}  
+#liid{
+  width: 60%;
+  margin: auto;
+  color: aliceblue;
+}
+button{
+  background-color: lightpink;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 16px;
+}
+#liid{
+  background-color: lightpink;
+}
